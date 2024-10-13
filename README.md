@@ -1,35 +1,31 @@
-# InduwaraB01-Apple-i-Store-management
 
-📱 **Apple Tech Store Management System**
+### 📱 **Apple Tech Store Management System**
 
-A comprehensive system designed to streamline operations for employees and administrators in an Apple tech store. Built using Java programming and object-oriented design principles, this system ensures scalability, maintainability, and efficiency.**
+**A comprehensive system designed to streamline operations for employees and administrators in an Apple tech store. Built using Java programming and object-oriented design principles, this system ensures scalability, maintainability, and efficiency.**
 
+---
 
+## 🔑 **Key Features:**
 
-🔑 **Key Features:**
+### 👩‍💻 **Employee Functionality:**
 
-👩‍💻 **Employee Functionality:**
-
-🔐 Secure Login System:**  
+- **🔐 Secure Login System:**  
   Employees can log in securely to access their workspace.
 
-- 🛍️ Product Management:
-  
+- **🛍️ Product Management:**  
   Employees can view a categorized list of all products, search for specific items, check product availability, and view detailed pricing information.
 
-  📦 Reservation System:
-  
+- **📦 Reservation System:**  
   Employees can reserve products for customers, ensuring a smooth and seamless shopping experience.
 
+---
 
+### 👨‍💼 **Admin Functionality:**
 
-👨‍💼 Admin Functionality:
-
-👥 Employee Management:
-
+- **👥 Employee Management:**  
   Admins can perform CRUD (Create, Read, Update, Delete) operations on employee accounts, ensuring authorized access to the system.
 
-🛠️ Product Management:
+- **🛠️ Product Management:**  
   Admins have full control over the product inventory, allowing them to add, delete, update, and view product details efficiently.
 
 ---
