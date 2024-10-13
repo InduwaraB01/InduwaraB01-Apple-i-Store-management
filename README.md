@@ -73,3 +73,56 @@
 ---
 
 This system simplifies tech store operations, ensuring a smoother workflow for employees and admins while improving the customer experience! 🚀
+
+
+Splash  Screen
+
+
+![image](https://github.com/user-attachments/assets/4d5a2594-877c-46a4-97e8-757bdad7bb67)
+
+login User type selection
+
+![image](https://github.com/user-attachments/assets/73300694-6a8b-4ee4-ba49-cf1e1fce47f4)
+
+Manager/Admin Login
+
+![image](https://github.com/user-attachments/assets/0fa4c17a-7662-404e-bef0-d2ba2df311be)
+
+Cashier Login
+
+![image](https://github.com/user-attachments/assets/d3383d1f-e779-4436-bc71-96ed8b0c7dc7)
+
+Product Management
+
+![image](https://github.com/user-attachments/assets/8a927e9c-f507-44e4-a268-90030c0b413d)
+![image](https://github.com/user-attachments/assets/c917f702-827c-400d-8a60-108035e4e096)
+
+Cashiers Account Management
+
+![image](https://github.com/user-attachments/assets/de130a96-3c5e-488d-a4e6-1bcb25f78f98)
+
+Cashier login
+
+![image](https://github.com/user-attachments/assets/900b6b9f-d412-49c9-8e90-e092a54de82f)
+
+Cashiers Menu
+
+![image](https://github.com/user-attachments/assets/6a1528de-d2d5-404f-b005-1251ffc5bdff)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
